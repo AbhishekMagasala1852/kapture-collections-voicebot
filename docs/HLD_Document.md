@@ -6,7 +6,7 @@ This document describes the architecture and design of Maya, an automated outbou
 
 ### 2. Architecture Diagram
 
-```mermaid
+``mermaid
 sequenceDiagram
     autonumber
     actor Customer
